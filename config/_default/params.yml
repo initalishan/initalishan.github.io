@@ -1,11 +1,12 @@
 env: production
 description: "Reaches deeper than the darkness."
 author: inishaikhalishan
-keywords: [Security, Linux, Programmer]
+keywords: [Programmer, Linux]
 
 homeInfoParams:
  Title: inishaikhalishan
  Content: Hello, welcome to [inishaikhalishan](/)'s blog.
+
 defaultTheme: dark
 ShowReadingTime: false
 ShowCodeCopyButtons: true
@@ -33,7 +34,7 @@ socialIcons:
 
 label:
   text: " "
-  icon: /logo/iniridwanul.png
+  icon: /logo/inishaikhalishan.png
   iconHeight: 40
 
 assets:
