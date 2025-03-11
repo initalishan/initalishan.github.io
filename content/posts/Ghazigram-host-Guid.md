@@ -26,7 +26,7 @@ If you don't have it then you can simply install it from Google Playstore.
 
 [Termux Link Google Playstore](https://play.google.com/store/apps/details?id=com.termux)
 
-**Storage setup in Termux**: After the install Termux.
+**Storage setup in Termux**: After installing Termux.
 
 First you'll need to grant Termux access to your device's storage.
 
