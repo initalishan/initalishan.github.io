@@ -176,7 +176,7 @@ nano ghazigram_run.sh
 
 then paste this contant in .sh file:
 ```shell
-#!/bin/bash
+#!/bin/bash 
 cd Ghazigram
 python -m ghazigram
 ```
