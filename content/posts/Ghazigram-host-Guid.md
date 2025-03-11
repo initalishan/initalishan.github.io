@@ -13,7 +13,7 @@ categories:
   - Ghazigram
   - bot setup
   - guid
---- Ghazigram is a multiFutered Telegramn userbot.
+--- Ghazigram is a multiFutered Telegram userbot.
 
 If you want to Setup Ghazigram, so you have to follow few steps.
 
@@ -39,7 +39,7 @@ This command will request permisson to access your device's storage.
 
 # Setup Ghazigram Termux/Terminal
 
-**Update Termux**: Before installing Python , It's good idea to update the Termux packages list and upgrade the installed packages:
+**Update**: Before installing Python , It's good idea to update the Termux packages list and upgrade the installed packages:
 
 First run this command:
 ```shell
@@ -83,7 +83,7 @@ ls
 ```
 
 
-then you see `Ghazigram` You have a named directory, Now we need to go in repository.
+then you see You have a `Ghazigram` named directory, Now we need to go in repository.
 
 
 Run this command:
@@ -159,7 +159,7 @@ You can check By Running this command in Telegram chat:
 
 
 
-**Shortcut to run the Ghazigram to Hpme directory by .sh file:** If you want to run ghazigram to home directory by one command then you nood to create the .sh file, Follow few more steps.
+**Shortcut to run the Ghazigram to Home directory by .sh file:** If you want to run ghazigram to home directory by one command then you need to create the .sh file, Follow few more steps.
 
 
 first you go to home directory by the command:
