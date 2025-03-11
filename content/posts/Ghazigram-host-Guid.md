@@ -3,7 +3,7 @@ cover:
  image: /images/ghazigram.png
  alt:
  relative: false
-title: 'Ghazigram Setup in Termux & Terminal Guid'
+title: 'Ghazigram Setup in Termux & Terminal Guide'
 author: 'inishaikhalishan'
 date: 2025-03-10T21:55:19+05:30
 tags:
