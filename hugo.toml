@@ -1,6 +1,6 @@
-baseURL = 'https://inishaikhalishan.github.io'
+baseURL = 'https://initalishan.github.io'
 languageCode = 'en-us'
-title = 'inishaikhalishan'
+title = 'initAlishan'
 theme = 'hugo-PaperMod'
 enableRobotsTXT = true
 

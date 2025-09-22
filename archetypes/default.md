@@ -4,7 +4,7 @@ cover:
  alt:
  relative: false
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-author: 'inishaikhalishan'
+author: 'initAlishan'
 date: {{ .Date }}
 tags:
   - 

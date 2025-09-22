@@ -1,11 +1,11 @@
 env: production
 description: "Reaches deeper than the darkness."
-author: inishaikhalishan
+author: initAlishan
 keywords: [Programmer, Linux]
 
 homeInfoParams:
- Title: inishaikhalishan
- Content: Hello, welcome to [inishaikhalishan](/)'s blog. I'm so serious about my blogs, I hope you'll also read them seriously. Here you'll find blogs and guides written by me. If you want to know about any specific topic then you can search for it.
+ Title: initAlishan
+ Content: Hello, welcome to [initAlishan](/)'s blog. I'm so serious about my blogs, I hope you'll also read them seriously. Here you'll find blogs and guides written by me. If you want to know about any specific topic then you can search for it.
 
 defaultTheme: dark
 ShowReadingTime: false
@@ -34,7 +34,7 @@ socialIcons:
 
 label:
   text: " "
-  icon: /logo/inishaikhalishan.png
+  icon: /logo/initAlishan.png
   iconHeight: 40
 
 assets:
